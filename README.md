@@ -1,4 +1,4 @@
-### Hi there 👋
+### (https://www.linkedin.com/in/pedro-rodrigues-985478278/)
 
 <!--
 **pedroved/pedroved** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
