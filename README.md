@@ -13,4 +13,4 @@
 
 ### Linguagens de Programação no GitHub
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AnielQueiroz&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroved&layout=compact)
