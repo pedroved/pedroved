@@ -1,9 +1,9 @@
 <div align="center">
   
-## Olá, eu sou Pedro 👋🏼 
+ ### Olá, eu sou Pedro 👋🏼 
 
   <a href="https://www.linkedin.com/in/pedro-rodrigues-985478278/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
   
 </div>
