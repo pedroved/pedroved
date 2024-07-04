@@ -17,13 +17,20 @@
   <img width="360" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroved&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
 
+<p>
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=pedroved&style=for-the-badge&color=orange" alt=""/>
 </div>
+</p>
 
+<div align="center">
 ### Tecnologias 📊 
-
+<p>
+  
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+</p>
+</div>
