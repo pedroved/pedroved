@@ -1,15 +1,23 @@
-<p align="center">
+<div align="center">
+  
 ### Olá, eu sou Pedro 👋🏼
-</p>
+
+</div>
 
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rodrigues-985478278/)
-
 </div>
 
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
+
+
+
+  
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=pedroved&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="775" height="220" src="https://streak-stats.demolab.com?user=pedroved&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 <p align="center">
@@ -24,8 +32,10 @@
 </p>
 
 <div align="center">
+  
 ### Tecnologias 📊 
 <p> 
+  
 </div>
 
 <div align="center">
