@@ -1,13 +1,15 @@
 <div align="center">
   
-### Olá, eu sou Pedro 👋🏼
-
+## Olá, eu sou Pedro 👋🏼 
 </div>
 
 <div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rodrigues-985478278/)
+  <a href="https://www.linkedin.com/in/pedro-rodrigues-985478278/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
 </div>
+
+
 
 
 
@@ -33,7 +35,7 @@
 
 <div align="center">
   
-### Tecnologias 📊 
+## Tecnologias 📊 
 <p> 
   
 </div>
