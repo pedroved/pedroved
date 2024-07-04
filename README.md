@@ -18,5 +18,5 @@
 </div>
 
 <p align="center">
- <img width="200" src="assets/github-snake.svg" alt="snake"/>
+ <img width="700" src="assets/github-snake.svg" alt="snake"/>
 </p>
