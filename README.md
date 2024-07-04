@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=pedroved&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-## Tecnologias 📊 
+### Tecnologias 📊 
 
 ![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
