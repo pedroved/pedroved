@@ -2,6 +2,7 @@
 
 <p align="center">
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-rodrigues-985478278/)
+</p>
 
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=pedroved&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
