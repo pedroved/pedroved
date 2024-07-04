@@ -14,3 +14,9 @@
 ### Linguagens de Programação no GitHub
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroved&layout=compact)
+
+</div>
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
