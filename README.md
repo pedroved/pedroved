@@ -11,10 +11,6 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Linguagens de Programação no GitHub
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroved&layout=compact)
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=pedroved&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
