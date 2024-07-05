@@ -34,7 +34,7 @@
 
 <div align="center">
   
-## Tecnologias 📊 
+## Technologies 📊 
 <p> 
   
 </div>
