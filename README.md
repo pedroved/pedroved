@@ -8,15 +8,8 @@
   
 </div>
 
-
-
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-
-
-
-  
+ 
 <p align="center">
   <img width="775" height="220" src="https://streak-stats.demolab.com?user=pedroved&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
