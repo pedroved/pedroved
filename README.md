@@ -9,10 +9,6 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
- 
-<p align="center">
-  <img width="775" height="220" src="https://streak-stats.demolab.com?user=pedroved&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
 
 <p align="center">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=pedroved&show_icons=true&theme=vision-friendly-dark">
