@@ -2,14 +2,13 @@
 
 <div align="center">
   
- ### Olá, eu sou Pedro
+ ## Olá, eu sou Pedro
 
   <a href="https://www.linkedin.com/in/pedroved/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="45"/>
   </a>
-  <br><br>
+ 
 </div>
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" />Status
 
